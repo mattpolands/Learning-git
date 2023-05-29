@@ -1,6 +1,6 @@
 # Learning-git
 
-My goal is to record my notes and learning process as I become familiarize myself with git and it's associated parts.
+My goal is to record my notes and learning process as I familiarize myself with git and it's associated parts.
 
 Once again I have to thank Pierian Training for its excellent tutorials. I cannot recommend them enough. Cost effective, clear, and concise and where I believe that they truly thrive is at the level of detail they offer (perfect for beginners like myself).
 
